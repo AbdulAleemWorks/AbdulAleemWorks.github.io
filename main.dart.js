@@ -46162,7 +46162,7 @@ M(a){var s=null
 return A.d8(s,A.kP(A.a([A.dm("Staff Attendance List",s,s,s,A.a0(a).p3.w,s,s),A.e0(A.oS(new A.zH(s),1),s,s)],t.p),B.c0,B.aC,B.av),B.p,s,s,new A.ca(B.cZ,s,s,B.ck,s,s,B.a_),s,s,s,new A.aD(16,16,16,16),s,s,s)}}
 A.BX.prototype={
 M(a){var s=null
-return A.d8(s,A.kP(A.a([A.dm("Attendance Details",s,s,s,A.hF(s,s,s,s,s,s,s,s,s,s,s,18,s,s,B.af,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.e0(s,16,s),new A.If(s),new A.qx("Administrators",u.E,"25",20,s),new A.qx("Supervisors","assets/icons/personCyan.svg.svg","40",30,s),new A.qx("Workers","assets/icons/personYellow.svg","212",200,s),new A.qx("Daily Wagers","assets/icons/personRed.svg","Undefined",50,s)],t.p),B.c0,B.aC,B.av),B.p,s,s,new A.ca(B.cZ,s,s,B.ck,s,s,B.a_),s,s,s,new A.aD(16,16,16,16),s,s,s)}}
+return A.d8(s,A.kP(A.a([A.dm("Attendance Details",s,s,s,A.hF(s,s,s,s,s,s,s,s,s,s,s,18,s,s,B.af,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.e0(s,16,s),new A.If(s),new A.qx("Administrators",u.E,"25",20,s),new A.qx("Supervisors","assets/icons/personCyan.svg","40",30,s),new A.qx("Workers","assets/icons/personYellow.svg","212",200,s),new A.qx("Daily Wagers","assets/icons/personRed.svg","Undefined",50,s)],t.p),B.c0,B.aC,B.av),B.p,s,s,new A.ca(B.cZ,s,s,B.ck,s,s,B.a_),s,s,s,new A.aD(16,16,16,16),s,s,s)}}
 A.qx.prototype={
 M(a){var s=this,r=null,q=A.I0(A.Q(38,38,151,255),2),p=t.p
 return A.d8(r,A.k8(A.a([A.e0(A.afp(s.d,r,r),20,20),A.oS(new A.dx(B.mS,A.kP(A.a([A.dm(s.c,1,B.bg,r,r,r,r),A.dm(""+s.f+" Employees",r,r,r,A.a0(a).p3.Q.c8(B.F),r,r)],p),B.c0,B.aC,B.av),r),1),A.dm(s.e,r,r,r,r,r,r)],p),B.aH,B.aC,B.av,r),B.p,r,r,new A.ca(r,r,q,B.lw,r,r,B.a_),r,r,new A.aD(0,16,0,0),new A.aD(16,16,16,16),r,r,r)}}
